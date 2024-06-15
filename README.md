@@ -1,7 +1,7 @@
 # ONT_DRS_bacteria_script
+[<img src="https://about.zenodo.org/static/img/logos/zenodo-gradient-1000.png" alt="zenodo logo" width="100"/>](https://zenodo.org/doi/10.5281/zenodo.11664595)
+
 Script of our Paper "Analysis of Transcriptome and Epitranscriptome in Bacteria  Using Nanopore Direct RNA Sequencing"
-
-
 This GitHub repository contains the script for generating figures mentioned 
 in the article, as well as the intermediate files.
 
