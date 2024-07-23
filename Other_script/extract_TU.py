@@ -1,7 +1,7 @@
 import argparse
 import matplotlib.pyplot as plt
 import pandas as pd
-# import pysam
+import pysam
 import os
 import time
 plt.rcParams['pdf.fonttype'] = 42
